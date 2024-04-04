@@ -4,7 +4,7 @@ Hi 👋 My name is Louis Helberg
 Student
 -------
 
-I am currently pursuing a bachelor's degree in data science for business management to enhance my quantitative skills.
+I am currently pursuing a bachelor's degree in data science for business management to enhance my quantitative skills and pursue my interest in technology.
 
 * 🌍  I'm based in Oslo
 * ✉️  You can contact me at [jlouis.helberg@gmail.com](mailto:jlouis.helberg@gmail.com)
